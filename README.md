@@ -39,7 +39,7 @@
 
 ---
 
-## 🧪 Demo
+## 🧪 Workflow
 
 <img src="demo.png" width="500"/>
 
