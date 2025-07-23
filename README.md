@@ -63,7 +63,7 @@ Pull requests and suggestions are welcome! If you'd like to collaborate or impro
 ## 📬 Contact
 
 If you have questions or want to build something similar,  
-**DM me on [LinkedIn](www.linkedin.com/in/mareeswaranc)** or open an issue here!
+**DM me on [LinkedIn](https://www.linkedin.com/in/mareeswaranc)** or open an issue here!
 
 ---
 
