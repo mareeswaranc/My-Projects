@@ -44,7 +44,7 @@ The agent follows a **step-by-step flow**:
 ## 🛠️ Tech Stack  
 - **Retell AI** - conversational AI agent (Fana)
 - **n8n** – workflow automation for integrating scheduling & email  
-- ** Calendar API ** – To check availability  
+- **Calendar API** – To check availability  
 - **Gmail API** – send appointment confirmation emails  
 
 
